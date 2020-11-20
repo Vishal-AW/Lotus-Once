@@ -1,0 +1,98 @@
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csprojAssemblyReference.cache
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe.config
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.pdb
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.Policy.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.ProjectServer.Client.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.dll
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.xml
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csproj.CopyComplete
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.exe
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.pdb
+E:\AW Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\UserInformation.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe.config
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.pdb
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.Policy.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.ProjectServer.Client.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.xml
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csprojAssemblyReference.cache
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csproj.CoreCompileInputs.cache
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csproj.CopyComplete
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.exe
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.pdb
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe.config
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.exe
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.pdb
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.pdb
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.Policy.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.ProjectServer.Client.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.dll
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.xml
+D:\AcenWork\Documents\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csprojResolveAssemblyReference.cache
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe.config
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.exe
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\LotusTimesheet.pdb
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.Policy.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.Client.TranslationServices.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Office.SharePoint.Tools.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.Online.SharePoint.Client.Tenant.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.ProjectServer.Client.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.DocumentManagement.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Publishing.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Runtime.Windows.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.Applications.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Search.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.Taxonomy.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Microsoft.SharePoint.Client.WorkflowServices.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.dll
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\bin\Debug\Newtonsoft.Json.xml
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csprojAssemblyReference.cache
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csproj.CoreCompileInputs.cache
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.csproj.CopyComplete
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.exe
+F:\AW Project\OneDrive - ascenwork\Project\Project\Lotus\Timesheet\wireframes\once\LotusTimesheet\LotusTimesheet\obj\Debug\LotusTimesheet.pdb
